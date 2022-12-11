@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "create-readme": "^2.1.3",
     "cross-env": "^7.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
